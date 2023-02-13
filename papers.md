@@ -7,6 +7,7 @@ Papers
 [[ACM Transactions on Graphics (TOG)](https://github.com/Tianxinhuang/3QNet)]3QNet: 3D Point Cloud Geometry Quantization Compression Network published in ACM TRANSACTIONS ON GRAPHICS.
 
 2022
+
 [[pytorch](https://github.com/jkini/Point-Cloud-Compression)]Point-Cloud-Compression
 
 [[ PyTorch](https://github.com/InterDigitalInc/PccAI)]PccAI: A Framework for AI-based Point Cloud Compression
