@@ -1,7 +1,13 @@
 
 
 Papers
+
+2023
+
+[[ACM Transactions on Graphics (TOG)](https://ieeexplore.ieee.org/abstract/document/9852261)]3QNet: 3D Point Cloud Geometry Quantization Compression Network published in ACM TRANSACTIONS ON GRAPHICS.[Tensorflow(https://github.com/Tianxinhuang/3QNet)]
+
 2022
+
 [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9852261)] Isolated Points Prediction via Deep Neural Network on Point Cloud Lossless Geometry Compression.
 
 [[ARXIV](https://arxiv.org/abs/2208.12573)] Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention
@@ -25,6 +31,7 @@ Papers
 [[APCCPA](https://dl.acm.org/doi/abs/10.1145/3552457.3555731)] Transformer and Upsampling-Based Point Cloud Compression. [Pytorch]
 
 2021
+
 [[MM Asia](https://dl.acm.org/doi/abs/10.1145/3469877.3490611)] Patch-Based Deep Autoencoder for Point Cloud Geometry Compression. [Pytorch]
 
 [[TCSVT](https://ieeexplore.ieee.org/document/9321375)] Lossy Point Cloud Geometry Compression via End-to-End Learning.
@@ -46,6 +53,7 @@ Papers
 [[ICIP](https://ieeexplore.ieee.org/document/9506631)] Point Cloud Geometry Compression Via Neural Graph Sampling.
 
 2020
+
 [[ICME](https://ieeexplore.ieee.org/document/9102866)] Lossy Geometry Compression Of 3d Point Cloud Data Via An Adaptive Octree-Guided Network. [Tensorflow]
 
 [[MMSP](https://ieeexplore.ieee.org/document/9287077)] Improved Deep Point Cloud Geometry Compression. [Tensorflow]
@@ -59,6 +67,7 @@ Papers
 [[ICIP](https://ieeexplore.ieee.org/document/9190647)] A Syndrome-Based Autoencoder For Point Cloud Geometry Compression.
 
 2019
+
 [[ICIP](https://ieeexplore.ieee.org/document/8803413)] Learning Convolutional Transforms for Lossy Point Cloud Geometry Compression. [Tensorflow]
 
 [[ICRA](https://ieeexplore.ieee.org/document/8794264)] Point Cloud Compression for 3D LiDAR Sensor using Recurrent Neural Network with Residual Blocks. [PyTorch]
@@ -76,8 +85,11 @@ Papers
 [[TIP](https://ieeexplore.ieee.org/document/8931233)] A Volumetric Approach to Point Cloud Compression–Part II: Geometry Compression.
 
 2018
+
 [[MM](https://dl.acm.org/doi/10.1145/3240508.3240696)] Hybrid Point Cloud Attribute Compression Using Slice-based Layered Structure and Block-based Intra Prediction.
+
 2016
+
 [[MM](https://ieeexplore.ieee.org/document/7405340)] Graph-based compression of dynamic 3D point cloud sequences.
 Non-Deep Learning Methods and Library
 [[Draco](https://github.com/google/draco)] Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
@@ -93,14 +105,19 @@ Non-Deep Learning Methods and Library
 [[ICRA '12](https://ieeexplore.ieee.org/document/6224647)] Real-time compression of point cloud streams.
 
 2016
+
 [[MM](https://ieeexplore.ieee.org/document/7482691)] Compression of 3D Point Clouds Using a Region-Adaptive Hierarchical Transform.
 2018
 [[ICIP](https://ieeexplore.ieee.org/document/8451802)] Intra-Frame Context-Based Octree Coding for Point-Cloud Geometry.
 2020
 [[IROS](https://ieeexplore.ieee.org/document/9341071)] Real-Time Spatio-Temporal LiDAR Point Cloud Compression. [C++ '1](https://github.com/yaoli1992/LiDAR-Point-Cloud-Compression)] [[C++ '2]
+
 2021
+
 [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9503405)] Lossy Point Cloud Geometry Compression via Region-wise Processing.
+
 Datasets
+
 [[KITTI](http://www.cvlibs.net/datasets/kitti/)] The KITTI Vision Benchmark Suite.
 
 [[ShapeNet](https://shapenet.org/)] A collaborative dataset between researchers at Princeton, Stanford and TTIC.
