@@ -8,12 +8,19 @@ Papers
 
 2022
 [[pytorch](https://github.com/jkini/Point-Cloud-Compression)]Point-Cloud-Compression
+
 [[ PyTorch](https://github.com/InterDigitalInc/PccAI)]PccAI: A Framework for AI-based Point Cloud Compression
+
 [[33rd IEEE Intelligent Vehicles Symposium](https://github.com/ika-rwth-aachen/Point-Cloud-Compression)]3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods
+
 [ [ACM MM 2022 Workshop](https://github.com/InterDigitalInc/GRASP-Net)]GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression
+
 [[ICRA2022](https://github.com/robotic-vision-lab/Variable-Rate-Compression-For-Raw-3D-Point-Clouds)]Variable Rate Compression for Raw 3D Point Clouds
+
 [[PCS 2022](https://github.com/huzi96/NVFPCC)]Learning Neural Volumetric Field for Point Cloud Geometry Compression
+
 [[APCCPA](https://github.com/arsx958/PCT_PCCTransformer)] and Upsampling-Based Point Cloud Compression
+
 [[TCSVT](https://ieeexplore.ieee.org/abstract/document/9852261)] Isolated Points Prediction via Deep Neural Network on Point Cloud Lossless Geometry Compression.
 
 [[ARXIV](https://arxiv.org/abs/2208.12573)] Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention
