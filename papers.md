@@ -8,6 +8,11 @@ Papers
 
 2022
 
+[[github](https://github.com/PRBonn/DCPCR)]DCPCR: Deep Compressed Point Cloud Registration in Large-Scale Outdoor Environments
+
+
+[[ICRA](https://github.com/PRBonn/retriever)]Retriever: Point Cloud Retrieval in Compressed 3D Maps
+
 [[pytorch](https://github.com/jkini/Point-Cloud-Compression)]Point-Cloud-Compression
 
 [[ PyTorch](https://github.com/InterDigitalInc/PccAI)]PccAI: A Framework for AI-based Point Cloud Compression
