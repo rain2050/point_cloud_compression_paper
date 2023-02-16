@@ -8,7 +8,7 @@ Papers
 
 2022
 
-[[github](https://github.com/PRBonn/DCPCR)]DCPCR: Deep Compressed Point Cloud Registration in Large-Scale Outdoor Environments
+[[github]( IEEE Robotics and Automation Letters (RA-L))]DCPCR: Deep Compressed Point Cloud Registration in Large-Scale Outdoor Environments
 
 
 [[ICRA](https://github.com/PRBonn/retriever)]Retriever: Point Cloud Retrieval in Compressed 3D Maps
